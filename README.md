@@ -1,5 +1,5 @@
-# CS EEE Microcontroller Workshop
-Welcome to the CS-EEE Microcontroller Workshop! Over the course of these exercises you'll go from blinking your first LED to building a traffic light controller and dimming LEDs with a potentiometer — no experience needed. If you get stuck at any point, give one of us a wave!
+# TinkerLab EEE Workshop
+Welcome to the TinkerLab EEE Workshop! Over the course of these exercises you'll go from blinking your first LED to building a traffic light controller and dimming LEDs with a potentiometer — no experience needed. If you get stuck at any point, give one of us a wave!
 
 It is **strongly** suggested you start with [exercise 0](exercises/00-hello-world.md) as it will get you introduced to the board and IDE before moving on.
 
